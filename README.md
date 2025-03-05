@@ -1,7 +1,6 @@
-# 💫 About Me:
 # 👋 Hey, I'm Shivareddy!  <br>ML & Data science Automation Enthusiast  <br><br>## 🔥 About Me  <br>- 🎓 **BTech AI & DS @ VNR VJIET**  <br>- 🤖 Passionate about **Machine Learning, Deep Learning & AI Automation**  <br>- 📸 Content Creator [@shotby.shiva](https://www.instagram.com/shotby.shiva)  
-<h3>💫 About Me</h3>
-<h4>👋 Hey, I'm Shivareddy!</h4>
+<h6>💫 About Me</h3>
+<h6>👋 Hey, I'm Shivareddy!</h4>
 <p>ML & Data Science Automation Enthusiast</p>
 
 ## 🌐 Socials:
