@@ -1,6 +1,8 @@
 # 💫 About Me:
 # 👋 Hey, I'm Shivareddy!  <br>ML & Data science Automation Enthusiast  <br><br>## 🔥 About Me  <br>- 🎓 **BTech AI & DS @ VNR VJIET**  <br>- 🤖 Passionate about **Machine Learning, Deep Learning & AI Automation**  <br>- 📸 Content Creator [@shotby.shiva](https://www.instagram.com/shotby.shiva)  
-
+<h3>💫 About Me</h3>
+<h4>👋 Hey, I'm Shivareddy!</h4>
+<p>ML & Data Science Automation Enthusiast</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivareddiee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivareddy Kottamittapally) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SHIVA REDDY KOTTA MITTAPALLY) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/SHIVA REDDY KOTTA MITTAPALLY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivareddy.kottamittapally@gmail.com) 
