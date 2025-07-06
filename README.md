@@ -1,4 +1,3 @@
-<h3>💫 About Me</h3>
 <h4>👋 Hey, I'm Shivareddy!</h4>
 <p>A passionate developer from India</p>
 
