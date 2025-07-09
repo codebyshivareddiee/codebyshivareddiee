@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [exceildraw](https://github.com/codebyshivareddiee/excelidraw-clone)
 
-- 🌱 I’m currently learning **React .js,Devops**
+- 🌱 I’m currently practicing **React .js,Devops**
 
 - 👯 I’m looking to collaborate on [ai-colobarative code platform](https://github.com/codebyshivareddiee/Collaborative-AI-Powered-code-generation-and-Collaboration-Platform)
 
